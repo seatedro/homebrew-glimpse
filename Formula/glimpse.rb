@@ -1,8 +1,8 @@
 class Glimpse < Formula
   desc "Blazingly fast tool for peeking at codebases"
   homepage "https://github.com/seatedro/glimpse"
-  url "https://github.com/seatedro/glimpse/archive/refs/tags/v0.6.9.tar.gz"
-  sha256 "d119c65146f5570c37ffa609593d30bd82ee9b6c942eca557ca982bc1335d92c"
+  url "https://github.com/seatedro/glimpse/archive/refs/tags/v0.6.10.tar.gz"
+  sha256 "85c738249b1c784e76772542f43495916cb3a1dec47f7d9a31418b9ea4727fa0"
   license "MIT"
 
   depends_on "rust" => :build
